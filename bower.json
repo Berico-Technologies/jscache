@@ -1,0 +1,12 @@
+{
+  "name": "jscache",
+  "version": "0.0.0",
+  "main": "cache.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "sample.html",
+    "test.js"
+  ]
+}
